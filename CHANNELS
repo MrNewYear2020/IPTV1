@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1, TNT
+https://b42119-p20-had-aeht4f8m.2.cdn.telefonica.com/_42119/live/disk1/TNT/_shared_19fa4a109fc4f6b195afea2d74b8b04b/QualityLevels(500000)/Fragments(video=1093191083811667)
+
+NFL Network HD 1500k
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_1500k.m3u8
+
+NFL Now Live
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
